@@ -8,7 +8,7 @@
 ![AUR license](https://img.shields.io/static/v1?label=License&message=MIT&color=blue)
 
 ## Description
-This node application is a proposed backend solution for an E Commerce back end.
+This application is a node/express server backend that provides functionality required for an E Commerce platform. It acts as a RESTful API with a mysql database.
 
 
 ---
