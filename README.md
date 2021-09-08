@@ -84,6 +84,6 @@ Contributing to this project is not currently available.
 
 ## Questions
 
-For any questions and support please contact Norman Bernard.  
+For any questions/support please contact Norman Bernard.  
 - Email: nksb414@gmail.com
 - Github: [Norman Bernard](https://github.com/Normksb)
