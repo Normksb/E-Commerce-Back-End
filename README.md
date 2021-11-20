@@ -1,7 +1,7 @@
 # E Commerce Backend
  
   
-  ![alt text](./images/screenshot.PNG)
+  ![Screenshot](https://github.com/Normksb/E-Commerce-Back-End/blob/main/images/screenshot.png)
   
 [Here is a link to the gitHub repo](https://github.com/Normksb/E-Commerce-Back-End)  
 
